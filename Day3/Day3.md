@@ -2,7 +2,7 @@
 
 
 
-![Dify](img\\Dify.png)
+![Dify](Day3\img\Dify.png)
 
 
 
