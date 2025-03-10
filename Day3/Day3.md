@@ -2,7 +2,7 @@
 
 
 
-![Dify](img\\Dify.png)
+![Dify](Dify.png)
 
 
 
